@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(doc, Some(bd88fafb-78d8-435b-a27c-f3a3bde8349f), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / doc[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to C:\Users\Peter\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\24-25\Programming Paradigms\CW1\CW1\target\scala-3.3.4\classes ...[0m
-[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to C:\Users\Peter\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\24-25\Programming Paradigms\CW1\CW1\target\scala-3.3.4\api...[0m
-[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 7 s, completed 8 Nov 2024, 15:17:33[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
