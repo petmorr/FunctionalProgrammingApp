@@ -1,0 +1,2 @@
+IntelliJ sometimes breaks the testing suite and says it cannot find the individual test classes.
+If so close the project, delete the .idea folder and open it again and it should work.

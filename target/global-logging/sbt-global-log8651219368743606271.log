@@ -1,0 +1,7 @@
+[debug] > Exec(ds: /sPnr%-0WCLI2/P%PaC1W, None, None)
+[error] Expected key
+[error] Expected '*'
+[error] Expected 'Zero'
+[error] ds: /sPnr%-0WCLI2/P%PaC1W
+[error]    ^
+[debug] > Exec(idea-shell, None, None)
